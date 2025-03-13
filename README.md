@@ -1,9 +1,9 @@
-# Hi 👋, I’m [Kent]
+# Hi 👋, I’m Kent
 
 A passionate Software developer from Switzerland
 
 - 🌱 I’m currently learning **Rust**
-- 💻 Currently working on **[My Cool Project]**
+- 💻 Currently working on **Hd-Wallets**
 - 💬 Ask me about **Solidty, JavaScript**
 - 📫 How to reach me: **your.email@example.com**
 - ⚡ Fun fact: **I'm a former Professional athlete**
