@@ -3,9 +3,13 @@
 A passionate Software developer from Switzerland
 
 - 🌱 I’m currently learning **Rust**
+
 - 💻 Currently working on **Hd-Wallets**
+
 - 💬 Ask me about **Solidty, JavaScript**
+
 - 📫 How to reach me: **daneelkent@gmail.com**
+
 - ⚡ Fun fact: **I'm a former Professional athlete**
 
 ### Connect with me:
